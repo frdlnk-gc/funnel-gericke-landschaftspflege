@@ -1,0 +1,144 @@
+{
+ "firma": "Gericke Landschaftspflege",
+ "firma_genitiv": "von Gericke Landschaftspflege",
+ "stelle": "Facharbeiter Galabau (m/w/d)",
+ "ort": "Berlin",
+ "plz": "12355",
+ "branche": "galabau",
+ "stelle_id": 128,
+ "farbe_primary": "#1C7E2A",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Berlin-Rudow & Umgebung",
+ "benefit_top": "Übertariflich & unbefristet",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Übertarifliche Bezahlung – pünktlich",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Betriebliche Altersvorsorge",
+  "Anhängerführerschein & berufliche Zertifizierungen auf Firmenkosten",
+  "Flexible Arbeitszeiten & flache Hierarchien",
+  "Firmenhandy, hochwertige Arbeitskleidung & Getränke-Flatrate",
+  "Betriebsausflüge, Firmenfeiern & Gesundheitsangebote"
+ ],
+ "aufgaben": [
+  "Du pflegst Bäume fachgerecht – Kronenpflege, Baumkontrolle und Pflanzung",
+  "Du mähst Grünflächen und übernimmst Sträucher- und Heckenschnitt",
+  "Du errichtest Wildverbisszäune und Amphibienhabitate",
+  "Du führst Arbeitsmaschinen und übernimmst Grauflächenpflege und Winterdienst",
+  "Du leitest Kollegen als Vorarbeiter an und dokumentierst die Abläufe"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung zum Gärtner, Fachrichtung Garten- und Landschaftsbau, oder eine ähnliche Ausbildung. Dazu fundiertes Wissen über Bäume und Baumarbeiten, Erfahrung mit Motorsäge und Freischneider (AS Baum 1 und 2 ideal – kann auch später nachgeholt werden), Führerschein Klasse B (gern auch BE oder mehr) und eine sorgfältige, zuverlässige und selbstständige Arbeitsweise im Team.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Garten- & Landschaftsbau",
+   "icon": "🌿",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Baumpflege / Forst",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Ähnliche grüne Ausbildung",
+   "icon": "🌱",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossene Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "17",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "2010",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "3.",
+    "label": "Generation"
+   }
+  ],
+  "text": "Gericke Landschaftspflege ist ein familiengeführtes Unternehmen mit Sitz in Berlin-Rudow, gegründet 2010 aus einem landwirtschaftlichen Betrieb, der bereits in 3. Generation geführt wird. Das Team arbeitet für öffentliche Auftraggeber und große Firmen: Mäh- und Pflanzarbeiten, Baumpflege, -kontrolle und -pflanzung, Bodenbearbeitung, Grundstücksräumungen, Bewässerung, Zäune und Leiteinrichtungen sowie Habitate für den Artenschutz – in Berlin und der umliegenden Region, mit moderner Technik."
+ },
+ "kunde_tab": "64 Gericke Landschaftspflege",
+ "quelle": "https://gericke-landschaftspflege.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Berlin-Rudow (12355)"
+ },
+ "hero_bild": "img/hero-container-bagger.jpg",
+ "bilder": [
+  "img/f-maehen-tempelhof.jpg",
+  "img/f-wasserwagen.jpg",
+  "img/f-solarpark-maehen.jpg",
+  "img/f-forstmulcher.jpg",
+  "img/f-mulcher-acker.jpg",
+  "img/f-baustelle-bagger.jpg",
+  "img/f-pflanzung.jpg",
+  "img/f-winterdienst.jpg"
+ ],
+ "meta_geo": [
+  "Klein-Ziethener Weg 17, 12355 Berlin"
+ ]
+}
